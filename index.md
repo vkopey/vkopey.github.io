@@ -1,6 +1,6 @@
 # Volodymyr Kopei
 
-[pic]: https://avatars1.githubusercontent.com/u/32579972?s=400&u=c6e14194e8b8970052da0a67cdb7c8f41ba19577&v=4 "Volodymyr Kopei"
+![pic](https://avatars1.githubusercontent.com/u/32579972?s=400&u=c6e14194e8b8970052da0a67cdb7c8f41ba19577&v=4 "Volodymyr Kopei")
 
 ## Biography
 
@@ -19,6 +19,8 @@ Ivano-Frankivsk, Ukraine
 Ivano-Frankivsk National Technical University of Oil and Gas
 * Master's degree (1995-2000)
 * Postgraduate (2000-2003)
+
+GitHub https://github.com/vkopey
 
 ORCID iD https://orcid.org/0000-0003-0008-8260
 
