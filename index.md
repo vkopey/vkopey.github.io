@@ -18,6 +18,8 @@ Ivano-Frankivsk, Ukraine
 * Master's degree (1995-2000)
 * Postgraduate (2000-2003)
 
+---
+
 GitHub https://github.com/vkopey
 
 ORCID iD https://orcid.org/0000-0003-0008-8260
@@ -27,3 +29,5 @@ ORCID iD https://orcid.org/0000-0003-0008-8260
 [ResearcherID: I-3942-2017](http://www.researcherid.com/rid/I-3942-2017)
 
 [linkedin.com](linkedin.com/in/владимир-копей-47b1b797)
+
+[YouTube](https://www.youtube.com/channel/UCVo-8iC8fL6t6OJ2EnCIoiQ)
