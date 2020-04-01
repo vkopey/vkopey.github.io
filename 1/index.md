@@ -1,2 +1,16 @@
+Щоб приєднатись до відеоконференції натисніть на посилання:
 
-# [https://meet.jit.si/nungkopei](https://meet.jit.si/nungkopei)
+# [https://8x8.vc/ifntuog/vkopey](https://8x8.vc/ifntuog/vkopey)
+
+Після під’єднання потрібно дозволити браузеру використовувати мікрофон.
+
+Ведіть своє ім’я.
+
+Відеоконференція буде проведена на основі сервісів https://meet.jit.si або https://8x8.vc
+
+---
+
+Вимоги для участі у відеоконференції:
+1. Сучасний браузер (рекомендується [Chrome](https://www.google.com/chrome/) або [Chromium](https://chromium.woolyss.com/))
+2. Динаміки
+3. Мікрофон або вебкамера з мікрофоном
