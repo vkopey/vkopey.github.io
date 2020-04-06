@@ -20,6 +20,8 @@ Ivano-Frankivsk, Ukraine
 
 ---
 
+email: volodymyr.kopey@nung.edu.ua
+
 [github.com/vkopey](https://github.com/vkopey)
 
 [ORCID iD: https://orcid.org/0000-0003-0008-8260](https://orcid.org/0000-0003-0008-8260)
