@@ -11,6 +11,5 @@
 Відеоконференція буде проведена на основі сервісів https://meet.jit.si або https://8x8.vc
 
 Вимоги для участі у відеоконференції:
-1. Сучасний браузер (рекомендується [Chrome](https://www.google.com/chrome/) або [Chromium](https://chromium.woolyss.com/))
-2. Динаміки
-3. Мікрофон або вебкамера з мікрофоном
+1. Сучасний браузер (рекомендується [Chrome](https://www.google.com/chrome/), [Chromium](https://chromium.woolyss.com/) або Edge)
+2. Звукові колонки та вебкамера з мікрофоном
