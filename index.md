@@ -2,7 +2,7 @@
 
 ## Biography
 
-Volodymyr Kopei is an Associate Professor (2008) in the [Department of Computerized Mechanical Engineering](http://nung.edu.ua/department/%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D0%BE%D1%97-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D1%96%D0%BA%D0%B8/%D0%BA%D0%BC%D0%B2) at the [Ivano-Frankivsk National Technical University of Oil and Gas](http://nung.edu.ua) (Ukraine) and PhD in Technical Science (2005) and Master of Science in Manufacturing Engineering (2000). His research interests include mechanical engineering, programming, computer simulation, CAD, maintenance of reliability of oil and gas equipment. He teaches courses "Theoretical foundations of the manufacturing engineering", "Manufacturing engineering in the oil and gas industry", "The reliability and durability of the oil and gas equipment", "Methods for modeling and simulation of kinematics and dynamics of machines", "Information support of experimental research", "Information support of CAD". He published more than 150 scientific and methodical works, including 5 textbooks, 2 monographs, 23 invention certificates.
+Volodymyr Kopei is a Professor in the [Department of Computerized Mechanical Engineering](https://nung.edu.ua/index.php/department/institut-inzhenernoi-mekhaniki/kafedra-kompyuterizovanogo-mashinobuduvannya) at the [Ivano-Frankivsk National Technical University of Oil and Gas](http://nung.edu.ua) (Ukraine) and D.Sc. in Technical Science (2021) and Master of Science in Manufacturing Engineering (2000). His research interests include mechanical engineering, programming, computer simulation, CAD, maintenance of reliability of oil and gas equipment. He teaches courses "Theoretical foundations of the manufacturing engineering", "Manufacturing engineering in the oil and gas industry", "The reliability and durability of the oil and gas equipment", "Methods for modeling and simulation of kinematics and dynamics of machines", "Information support of experimental research", "Information support of CAD". He published more than 200 scientific and methodical works, including 6 textbooks, 3 monographs, 23 invention certificates.
 
 ## Keywords
 
@@ -20,7 +20,7 @@ Ivano-Frankivsk, Ukraine
 
 ---
 
-email: volodymyr.kopey@nung.edu.ua
+email: vkopey@gmail.com, volodymyr.kopey@nung.edu.ua
 
 [github.com/vkopey](https://github.com/vkopey)
 
